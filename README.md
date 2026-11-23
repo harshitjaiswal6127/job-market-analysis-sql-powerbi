@@ -44,6 +44,21 @@ I used **MySQL** for data exploration and analysis and **Power BI** to create an
 
 The dashboard consists of three pages:
 
+### Dashboard Preview
+
+**1. Job Market Overview**
+
+![Job Market Overview](01_Job_Market_Overview.png)
+
+**2. Skills Analysis**
+
+![Skills Analysis](02_Skills_Analysis.png)
+
+**3. Salary Analysis**
+
+![Salary Analysis](03_Salary_Analysis.png)
+
+
 ### 1. Job Market Overview
 Provides an overview of job opportunities, hiring companies and job distributions.
 
